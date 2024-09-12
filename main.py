@@ -10,7 +10,7 @@ import asyncio
 
 
 PREFIX = '!'
-TOKEN = 'MTIxMTYzMjE0MzMzNjIxODY1NQ.GBO4E9.v_LEyJbH5myoikdLdUmBiYsSg69k13YjT-HrKI' 
+TOKEN = 'MTIzOTYyMTk0MTg0NjA4MTU0Nw.GxH9u-.spfIyRlkfyiDCBqn50DilZtPLe58SiUs6zDs68' 
 LIMIT = 100 # จำนวน 
 blacklist = ['191,11,00,'] # เบอร์ที่ต้องการจะไม่ให้ยิง
 
